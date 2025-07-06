@@ -33,6 +33,6 @@
 
 **You can view the Interactive live Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjE2ZmU3MzYtMDYzYy00NmFmLTg3Y2ItYzM2NjdjMjRiYTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
- You can view Video Presentation  **[Watch the final presentation video here](./Wavecon.mp4)**  
+ You can view Video Presentation  **[Watch the final presentation video here](https://1drv.ms/p/c/34a9e1ef50837ee3/EUN3TrQuCA1FuNXERzcecgQBP6-qpLRWCe1qVX6HJdYLUw?e=LQ7Ccd)**  
  A short video walkthrough of the dashboard and insights.
 
